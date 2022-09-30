@@ -1,0 +1,24 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "amount": 12312,
+      "store_name": "Marta"
+    },
+    {
+      "id": 1,
+      "amount": 45254,
+      "store_name": "Sheryl"
+    },
+    {
+      "id": 1,
+      "amount": 51245,
+      "store_name": "Angel"
+    },
+    {
+      "id": 1,
+      "amount": 66341,
+      "store_name": "Maria"
+    }
+  ]
+}
